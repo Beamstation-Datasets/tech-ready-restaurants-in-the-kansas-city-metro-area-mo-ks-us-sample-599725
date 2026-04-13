@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in the Kansas City Metro Area, MO-KS, US",
+  "export_job_id": "90203684-8595-4fc8-bfe7-9c6dd6b58010",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 599725,
+  "location_name": "Kansas City, MO-KS",
+  "location_type": "metro",
+  "repo_name": "tech-ready-restaurants-in-the-kansas-city-metro-area-mo-ks-us-sample-599725",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/599725/beamstation_599725_restaurants-us-kansascitymoks_SAMPLE_DIST.csv",
+  "sample_pct": 9.09,
+  "sample_records": 1,
+  "sample_sha256": "88378b42eeb3a99ea1c4936299b0bd3aed0c920ba0e3632589cd00fc0449b70f",
+  "sample_size_bytes": 20752,
+  "total_records": 11,
+  "updated_at": "2026-04-08T02:58:58.867673+00:00"
+}
