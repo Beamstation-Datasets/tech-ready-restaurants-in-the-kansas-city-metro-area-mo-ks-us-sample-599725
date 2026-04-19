@@ -9,9 +9,9 @@
 | Dataset ID | `599725` |
 | Location | Kansas City, MO-KS |
 | Category | Restaurants |
-| Full dataset size | 11 records |
-| Free sample size | 1 records (9.09%) |
-| Last export | 2026-04-08T02:58:58.867673+00:00 |
+| Full dataset size | 5 records |
+| Free sample size | 1 records (20.0%) |
+| Last export | 2026-04-15T08:06:33.577633+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-kansas-city-metro-area-mo-ks-us-sample-599725/releases/download/sample-latest/beamstation_599725_restaurants-us-kansascitymoks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
