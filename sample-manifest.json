@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ab9bcc0a-ea20-4f3c-969b-994380c62caa",
+  "export_job_id": "707b6611-39a6-4bab-b073-16c7600580f0",
   "id_short": 599725,
-  "published_at": "2026-04-22T19:58:09Z",
+  "published_at": "2026-04-30T07:39:53Z",
   "repo_name": "tech-ready-restaurants-in-the-kansas-city-metro-area-mo-ks-us-sample-599725",
   "sample_asset_name": "beamstation_599725_restaurants-us-kansascitymoks_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/599725/beamstation_599725_restaurants-us-kansascitymoks_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "b0ff834c60f978f2e24c7cf5a2fe79170e3f1bfc3f5d80d1e1f775c1ef456720",
-  "sample_size_bytes": 20349,
-  "total_records": 10
+  "sample_records": 6,
+  "sample_sha256": "a46dc21bb9c859a28c7b056b66f0c64ca37ff0fb86ac90d9bc60d85e05f873d7",
+  "sample_size_bytes": 38922,
+  "total_records": 67
 }
